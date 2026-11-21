@@ -13,7 +13,6 @@
 </p><ul>
   <li>🐧 Usuária de <strong>Linux Mint</strong>, aprendendo cada vez mais sobre terminal e open source.</li>
   <li>📼 Apaixonada por tecnologias antigas e pelas histórias que elas carregam.</li>
-  <li>✨ Curiosa, criativa, resiliente e sempre disposta a me reinventar.</li>
   <li>🔭 Atualmente desenvolvendo um <strong>sistema de atendimento e gestão de chamados</strong>.</li>
   <li>🌱 Aprofundando meus conhecimentos em <strong>back-end, APIs REST e bancos de dados</strong>.</li>
 </ul>
